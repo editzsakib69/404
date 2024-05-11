@@ -18,12 +18,12 @@
 		"enable": false,
 		"ignoreCommand": []
 	}, "api":"https://noobs-api.onrender.com/dipto",
-	"adminBot": [
-    	"100064502005991",
-    	"100062247702941"
+	"adminBot":"𝐒𝐇𝐀𝐑𝐌𝐈𝐍-00",
+    	"100085082042087",
+    	"100085082042087"
 ],
 	"DEV": [
-	  "100064502005991"
+	  "100085082042087"
 ],
 	"whiteListMode": {
 		"enable": false,
